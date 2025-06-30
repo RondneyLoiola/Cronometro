@@ -53,6 +53,13 @@
     }
 }
 
+@media(max-width:250px) {
+    img {
+        width: 150px;
+        top: 14%;
+    }
+}
+
 @media(max-width:200px) {
     img {
         width: 150px;
